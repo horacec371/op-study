@@ -6,6 +6,6 @@
 
 ## Key Link:
 
-1. OPNet, Professor Liu's Respository: https://github.com/JinnAIGroup/OPNet
+1. OPNet, Professor Liu's Respository, [link](https://github.com/JinnAIGroup/OPNet)
 
-2. OPNet, Tom's Respository: https://github.com/tangshulien/OPNet
+2. OPNet, Tom's Respository, [link](https://github.com/tangshulien/OPNet)
