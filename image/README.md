@@ -6,7 +6,7 @@
 
 <div align="center">
      <img 
-      src="https://github.com/horacec371/op-study/blob/main/image/JL11_2X2.gif" 
+      src="https://github.com/horacec371/op-study/blob/main/image/JL11_2X2_20211206.gif" 
       width="70%" height="70%">
     </div>
 
