@@ -1,4 +1,4 @@
-# openpilot Study for Self Driving Car Project for Lane, Path, Distance, and Object Detection
+# openpilot Study 
 
 
 
