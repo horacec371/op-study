@@ -5,7 +5,7 @@
 ![image](https://github.com/horacec371/20210810-Leon_op_modeld_tf/blob/master/101-KM-ProfessorJL/Simulator/Carla101.gif)
 
 
-Reference: https://github.com/horacec371/Comma.ai-Simulation-instruction
+Reference: https://github.com/commaai/openpilot/wiki/CARLA
 
 ## How to install and start Carla?
 
