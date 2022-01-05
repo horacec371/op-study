@@ -2,7 +2,7 @@
 
 ## Demo: Press "1" for Speed Up in the terminal of "./start_openpilot_docker.sh"
 
-![image](https://github.com/horacec371/20210810-Leon_op_modeld_tf/blob/master/101-KM-ProfessorJL/Simulator/Carla101.gif)
+![image](https://github.com/horacec371/op-study/blob/main/image/Carla101.gif)
 
 
 Reference: https://github.com/commaai/openpilot/wiki/CARLA
