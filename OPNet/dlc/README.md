@@ -1,6 +1,6 @@
 # New Update for PB, DLC, HTML
 
-About the procedure, please refer to the Install SNPE on Uuntu 20.04
+About the procedure, please refer to InstallSNPE.docx 
 
 (A) Install SNPE
 
