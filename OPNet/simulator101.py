@@ -147,6 +147,6 @@ while True:
     if cv2.waitKey(10) & 0xFF == ord('q'):
           break
 
-  imgs_med_model[0] = imgs_med_model[1]
+    imgs_med_model[0] = imgs_med_model[1]
 
 print ("#--- Frames per second using video.get(cv2.CAP_PROP_FPS) : {0}".format(fps))
